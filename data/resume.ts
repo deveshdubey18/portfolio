@@ -3,7 +3,7 @@ export const RESUME_DATA = {
   title: "Data Analyst | Aspiring Data Scientist",
   summary: "Data Analyst with hands-on experience building end-to-end ETL pipelines, normalized relational databases, and Power BI dashboards that turn raw operational data into decision-ready insights. I work with Python, SQL, Machine Learning, statistical analysis, hypothesis testing, data visualization, databases, and business analytics.",
   contact: {
-    email: "deveshdubey625@email.com",
+    email: "deveshdubey625@gmail.com",
     phone: "+91-7823826696",
     github: "https://github.com/deveshdubey18",
     linkedin: "https://www.linkedin.com/in/deveshdubey",
