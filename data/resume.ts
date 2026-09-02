@@ -6,7 +6,7 @@ export const RESUME_DATA = {
     email: "deveshdubey625@gmail.com",
     phone: "+91-7823826696",
     github: "https://github.com/deveshdubey18",
-    linkedin: "https://www.linkedin.com/in/deveshdubey",
+    linkedin: "https://www.linkedin.com/in/deveshdubey18",
   },
   skills: {
     programming: ["Python", "Java", "SQL", "SQL Joins", "CTEs", "Window Functions", "Subqueries"],
