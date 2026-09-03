@@ -50,7 +50,7 @@ export default function Navbar() {
             </Link>
           ))}
           <a
-            href="/resume.pdf"
+            href="/portfolio/resume.pdf"
             download
             className="text-sm font-medium bg-primary/10 text-primary px-4 py-2 rounded-full border border-primary/20 hover:bg-primary/20 transition-all"
           >
@@ -85,7 +85,7 @@ export default function Navbar() {
             </Link>
           ))}
           <a
-            href="/resume.pdf"
+            href="/portfolio/resume.pdf"
             download
             onClick={() => setIsOpen(false)}
             className="text-xl font-bold bg-primary/10 text-primary px-8 py-4 rounded-full border border-primary/20"
