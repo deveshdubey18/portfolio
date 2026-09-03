@@ -40,7 +40,7 @@ export default function Contact() {
               Let&apos;s Connect <ArrowRight size={20} />
             </a>
             <a
-              href="/resume.pdf"
+              href="/portfolio/resume.pdf"
               download
               className="px-8 py-4 glass text-white font-bold rounded-full hover:bg-white/10 transition-colors w-full sm:w-auto justify-center text-lg"
             >
